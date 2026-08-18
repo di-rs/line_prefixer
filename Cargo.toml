@@ -10,7 +10,6 @@ documentation = "https://docs.rs/line_prefixer"
 homepage = "https://github.com/di-rs/line_prefixer"
 repository = "https://github.com/di-rs/line_prefixer"
 keywords = ["line_prefixer", "prefix", "writer", "line_prefixer"]
-categories = ["writer", "prefix"]
 exclude = [".github/*"]
 
 [dev-dependencies]
